@@ -1,0 +1,3 @@
+1、点击"注册插件到系统.bat"。如果注册失败，那么就手动复制"dm.dll"到系统安装盘的system32(如C:\Windows\system32)
+   如果是64位系统，要复制到SysWOW64目录下（如C:\Windows\SysWOW64），再以"管理员方式运行""注册插件到系统.bat"。这样应该会注册成功了
+2、本软件需要安装.net4.0环境。如果运行出错请到网上下载.net4.0的安装包 http://www.microsoft.com/zh-cn/download/details.aspx?id=17718
